@@ -13,4 +13,5 @@
 **MENTOR NAME** : NEELA SANTHOSH KUMAR 
 
 # OUTPUT OF THE TASK 
-https://github.com/user-attachments/assets/3cfc79cf-4fe5-4966-b447-f3b6e686bfee
+![Screenshot 2025-01-15 220759](https://github.com/user-attachments/assets/3cfc79cf-4fe5-4966-b447-f3b6e686bfee)
+
