@@ -11,3 +11,6 @@
 **BATCH DURATION** : DECEMBER 30th,2024 to JANUARY 20th,2025
 
 **MENTOR NAME** : NEELA SANTHOSH KUMAR 
+
+# OUTPUT OF THE TASK 
+https://github.com/user-attachments/assets/3cfc79cf-4fe5-4966-b447-f3b6e686bfee
